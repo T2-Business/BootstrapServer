@@ -1,0 +1,17 @@
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServer.Entity.deps.json
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServer.Entity.dll
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServer.Entity.pdb
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.AssemblyInfoInputs.cache
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.AssemblyInfo.cs
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.dll
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.pdb
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.csprojAssemblyReference.cache
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServer.Entity.deps.json
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServer.Entity.dll
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServer.Entity.pdb
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.AssemblyInfoInputs.cache
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.AssemblyInfo.cs
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.csproj.CoreCompileInputs.cache
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.dll
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServer.Entity.pdb

@@ -1,0 +1,9 @@
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\bin\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.deps.json
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\bin\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.dll
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\obj\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.AssemblyInfoInputs.cache
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\obj\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.AssemblyInfo.cs
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\bin\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.pdb
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\obj\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.dll
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\obj\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.pdb
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\obj\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.csprojAssemblyReference.cache
+D:\Projects\T2BootstrapServer\T2BootstrapServers.Tokenization\obj\Debug\netcoreapp3.1\T2BootstrapServers.Tokenization.csproj.CoreCompileInputs.cache

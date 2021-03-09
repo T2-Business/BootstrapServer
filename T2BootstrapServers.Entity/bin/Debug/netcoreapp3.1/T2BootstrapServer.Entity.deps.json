@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T2BootstrapServer.Entity/1.0.0": {
+        "runtime": {
+          "T2BootstrapServer.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T2BootstrapServer.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

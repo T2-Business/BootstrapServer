@@ -1,0 +1,13 @@
+2020-07-06 16:46:37,353  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-07-06 16:46:37,399  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-07-06 16:46:37,402  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2.BootstrapServers.API
+ 2020-07-06 16:46:41,809  INFO T2BootstrapServer.API.Controllers.WeatherForecastController.? [?] - MESSAGE: Processing credit card payment
+ 2020-07-06 16:47:11,618  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-07-06 16:47:11,639  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-07-06 16:47:11,642  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2.BootstrapServers.API
+ 2020-07-06 16:47:13,777  INFO T2BootstrapServer.API.Controllers.WeatherForecastController.? [?] - MESSAGE: Processing credit card payment
+ 2020-07-06 16:47:31,827  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-07-06 16:47:31,861  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-07-06 16:47:31,863  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2.BootstrapServers.API
+ 2020-07-06 16:47:33,588  INFO T2BootstrapServer.API.Controllers.WeatherForecastController.? [?] - MESSAGE: Processing credit card payment
+ 

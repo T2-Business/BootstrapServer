@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\T2BootstrapServer\\T2.BootstrapServers.API\\T2BootstrapServer.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\T2BootstrapServer\\T2.BootstrapServers.API\\T2BootstrapServer.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\T2BootstrapServer\\T2.BootstrapServers.API\\T2BootstrapServer.API.csproj",
+        "projectName": "T2BootstrapServer.API",
+        "projectPath": "D:\\Projects\\T2BootstrapServer\\T2.BootstrapServers.API\\T2BootstrapServer.API.csproj",
+        "packagesPath": "C:\\Users\\96654\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\T2BootstrapServer\\T2.BootstrapServers.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96654\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Entity\\T2BootstrapServer.Entity.csproj": {
+                "projectPath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Entity\\T2BootstrapServer.Entity.csproj"
+              },
+              "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\T2BootstrapServer.Tokenization.csproj": {
+                "projectPath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\T2BootstrapServer.Tokenization.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Entity\\T2BootstrapServer.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Entity\\T2BootstrapServer.Entity.csproj",
+        "projectName": "T2BootstrapServer.Entity",
+        "projectPath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Entity\\T2BootstrapServer.Entity.csproj",
+        "packagesPath": "C:\\Users\\96654\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96654\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\T2BootstrapServer.Tokenization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\T2BootstrapServer.Tokenization.csproj",
+        "projectName": "T2BootstrapServer.Tokenization",
+        "projectPath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\T2BootstrapServer.Tokenization.csproj",
+        "packagesPath": "C:\\Users\\96654\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96654\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

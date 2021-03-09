@@ -1,0 +1,8 @@
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServers.Entity.deps.json
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServers.Entity.dll
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\bin\Debug\netcoreapp3.1\T2BootstrapServers.Entity.pdb
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServers.Entity.AssemblyInfoInputs.cache
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServers.Entity.AssemblyInfo.cs
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServers.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServers.Entity.dll
+C:\Users\SALEM-BADHAWI\source\repos\T2.BootstrapServers\T2BootstrapServers.Entity\obj\Debug\netcoreapp3.1\T2BootstrapServers.Entity.pdb

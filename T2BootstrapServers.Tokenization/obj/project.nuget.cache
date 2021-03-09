@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5F694l+g+AGXG2LJgT4EIA1odE4DDAhxt354/aFJlpWiZ4EWP6CaVg/+q6+EAmeEuYaAoqBSgnbK/4MLZhhrbA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\T2BootstrapServer\\T2BootstrapServers.Tokenization\\T2BootstrapServer.Tokenization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\96654\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\96654\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\96654\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\96654\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\96654\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\96654\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
