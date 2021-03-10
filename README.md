@@ -23,3 +23,9 @@ so if you have more that LB or service server you need you will call this API to
 
    
   </code>
+  
+  
+   task = SustainableTaskManager.SustainableTask(async now => await CheckHostStatusAsync(), consumertoken.Token, consumerDalyTime);
+            task.Post(DateTimeOffset.Now);
+
+            return Task.CompletedTask;
