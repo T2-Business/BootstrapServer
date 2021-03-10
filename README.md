@@ -10,3 +10,7 @@ so if you have more that LB or service server you need you will call this API to
 
 
 <H2><b>Technologies  </H2>
+  <ol>
+    <li>.net core </li>
+    <li> API</li>
+    <\ol>
