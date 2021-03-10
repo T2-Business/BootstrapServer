@@ -18,33 +18,8 @@ so if you have more that LB or service server you need you will call this API to
   we use System.Threading.Tasks.Dataflow to create coninuese running job on the IIS  like below  
   
   <code>
-  public static ActionBlock<DateTimeOffset> SustainableTask(Action<DateTimeOffset> action, CancellationToken cancellationToken, int consumerDalyTime = 10)
-        {
-            // Validate parameters.
-            if (action == null)
-                throw new ArgumentNullException("action is null ");
+  
+  ![alt text](https://github.com/T2-Business/BootstrapServer/blob/main/TBL.PNG)
 
-            // Declare the block variable needs to be captured.
-            ActionBlock<DateTimeOffset> block = null;
-
-
-            block = new ActionBlock<DateTimeOffset>(async now => {
-                // Perform the consumer action.
-                action(now);
-
-                // Wait.
-                await Task.Delay(TimeSpan.FromMinutes(consumerDalyTime), cancellationToken).
-                    // we dont need awaiter  "read about it may be will create performence issue in this location @{salem}"
-                    ConfigureAwait(false);
-
-                // Post the action back to the block  salem note : its like recursion will call it self agian  
-                block.Post(DateTimeOffset.Now);
-            }, new ExecutionDataflowBlockOptions
-            {
-                CancellationToken = cancellationToken
-            });
-
-            // Return the block.
-            return block;
-        }
+   
   </code>
