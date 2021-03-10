@@ -24,12 +24,11 @@ so if you have more that LB or service server you need you will call this API to
    
   </code>
   
-  <H2><b> To run the above code   </H2>
-   task = SustainableTaskManager.SustainableTask(async now => await CheckHostStatusAsync(), consumertoken.Token, consumerDalyTime);
+  <H2>  To run the above code   </H2>
+  <p> task = SustainableTaskManager.SustainableTask(async now => await CheckHostStatusAsync(), consumertoken.Token, consumerDalyTime);
             task.Post(DateTimeOffset.Now);
-
-            return Task.CompletedTask;
-           <H2><b>How to change the Servers URL   </H2>
+    return Task.CompletedTask;
+  </p>
+  <H2><b>How to change the Servers URL   </H2>
            <p>its easy  to change the servers url you want to monitore  by going to the  appsetting.json file  then change the url to your servers url like the image below </p>
-           ![alt text](https://github.com/T2-Business/BootstrapServer/blob/main/hostURl.PNG)
-            
+           ![alt text](https://github.com/T2-Business/BootstrapServer/blob/main/hostURl.PNG)      
