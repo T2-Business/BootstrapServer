@@ -38,4 +38,6 @@ so if you have more that LB or service server you need you will call this API to
  <H2> How to request the Servers list  </H2>
 <p>to request the server list all what you need to do is to get the authintication code first from BootstrapServer
 By calling   http://BootstrapServer/Token/GeneratToken?yourclientId</p>
+![alt text](https://github.com/T2-Business/BootstrapServer/blob/main/Token.PNG)
+
 </>
