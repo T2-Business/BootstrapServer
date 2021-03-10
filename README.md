@@ -40,4 +40,17 @@ so if you have more that LB or service server you need you will call this API to
 By calling   http://BootstrapServer/Token/GeneratToken?yourclientId</p>
 
 ![alt text](https://github.com/T2-Business/BootstrapServer/blob/main/Token.PNG)
+
+<p>After you take the Token  you need to add it to the header then request the list of the running server like image below  ;  
+<br>
+  also note that you can filter the list depend on several cartiera like
+  <ol>
+    <li>accountCode</li>
+    <li>timeZone</li>
+    <li>osType</li>
+    <li>usedHostList   to exclude the already used list of host </li>
+    </ol>
+</p>
+
+![alt text](https://github.com/T2-Business/BootstrapServer/blob/main/Environment.PNG)
  
