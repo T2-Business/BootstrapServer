@@ -7,3 +7,6 @@ servers to the client  so the client can know the working servers and send reque
 
 in many cases in high trafic application with ahuge transaction a big request payload  may be even the load balancer stop 
 so if you have more that LB or service server you need you will call this API to get the running servers
+
+
+<b>Technologies <\b>
